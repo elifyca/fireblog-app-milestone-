@@ -90,7 +90,7 @@ Build a Register FireBlog App using ReactJS.
 
 - Step 5 : Add project gif to your project and README.md file.
 
-## Notes
+## Notes #####
 
 - You can add additional functionalities to your app.
 
