@@ -2,11 +2,10 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-011 : FireBlog App (RC-11)  
-test
  
 ## Description
 
-Project aims to create a FireBlog App.
+Project aims to create a FireBlog App. Test1
 
 ## Problem Statement
 
